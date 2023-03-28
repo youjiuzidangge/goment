@@ -29,7 +29,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Updated Weekdays method to be locale aware if bool parameter is provided.
 - Updated WeekdaysShort method to be locale aware if bool parameter is provided.
 - Updated WeekdaysMin method to be locale aware if bool parameter is provided.
-- Support for parsing timestamps with Z timezone - https://github.com/nleeper/goment/pull/36
+- Support for parsing timestamps with Z timezone - https://github.com/youjiuzidangge/goment/pull/36
 
 ## [1.3.0] - 2020-08-20
 ### Added
